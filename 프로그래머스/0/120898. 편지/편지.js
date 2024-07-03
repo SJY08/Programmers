@@ -1,0 +1,1 @@
+let solution=message=>message.length*2
