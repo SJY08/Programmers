@@ -1,0 +1,1 @@
+let solution=(slice,n)=>Math.ceil(n/slice)
