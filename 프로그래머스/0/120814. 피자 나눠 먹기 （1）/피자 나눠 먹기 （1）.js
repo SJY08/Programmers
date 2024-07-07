@@ -1,0 +1,1 @@
+let solution=n=>Math.ceil(n/7)
