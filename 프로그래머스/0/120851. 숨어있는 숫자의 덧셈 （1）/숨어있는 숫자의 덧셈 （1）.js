@@ -1,0 +1,1 @@
+let solution=my_string=>[...my_string].filter(a=>!isNaN(a)).reduce((a,b)=>+a+(+b),0)
