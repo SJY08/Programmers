@@ -1,0 +1,1 @@
+let solution=arr=>arr.filter((_,i)=>arr[i] !==arr[i-1])
