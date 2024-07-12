@@ -1,0 +1,1 @@
+let solution=my_string=>[...my_string].map(a=>a==a.toUpperCase()?a.toLowerCase():a.toUpperCase()).join("")
