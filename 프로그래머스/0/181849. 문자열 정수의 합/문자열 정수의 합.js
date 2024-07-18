@@ -1,0 +1,1 @@
+let solution = num_str => [...num_str].reduce((a,b)=>+a+(+b),0)
