@@ -1,0 +1,1 @@
+let solution = numbers => Math.max(...numbers)*numbers.sort((a,b)=>b-a)[1]
