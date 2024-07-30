@@ -1,0 +1,1 @@
+let solution = myString => [...myString].map(v=>v=="a" || v=="A" ? "A" : v.toLowerCase()).join("")
