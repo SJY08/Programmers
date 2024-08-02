@@ -1,0 +1,1 @@
+let solution = strArr => strArr.map((a,i)=>i%2==0?a.toLowerCase():a.toUpperCase())
