@@ -1,0 +1,1 @@
+let solution = (my_string,letter) => my_string.replaceAll(letter,'')
