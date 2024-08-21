@@ -1,0 +1,1 @@
+let solution=(s1,s2)=>s1.filter((_,i)=>s2.includes(s1[i])).length
